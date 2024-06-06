@@ -58,13 +58,18 @@ The main goal was to study and create a project to put into practice the basics 
 <h4>Backend</h4>
 
 > 1. Open the terminal and type `cd server` to access the the server/backend directory;
-> 2. Run `npm start`. This will start the server, which listens on port 9000, and all your tasks won't vanish after reloading the page or closing the app.
+>
+> 2. Run `npm install` to install the necessary dependencies for the project.
+>
+> 3. Run `npm start`. This will start the server, which listens on port 9000, and all your tasks won't vanish after reloading the page or closing the app.
 
 <h4>Frontend</h4>
 
 > 1. Open the terminal and type `cd client` to access the the client/frontend directory;
 >
-> 2. Run `npm start`. This will open the app in your browser.
+> 2. Run `npm install` to install the necessary dependencies for the project.
+>
+> 3. Run `npm start`. This will open the app in your browser.
 
 🚀 All set, use it as much as you like!
 
