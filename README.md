@@ -9,7 +9,7 @@
 
 #
 
-[![MIT License badge](https://img.shields.io/badge/license-MIT-green 'MIT License')](https://github.com/GabrielMarqueseSouza/Todo-App/blob/master/LICENSE)
+[![MIT License badge](https://img.shields.io/badge/license-MIT-green 'MIT License')](https://github.com/GabrielMarqueseSouza/Todo/blob/main/LICENSE)
 
 <div id="intro">
 <h2 style="border-bottom: none;">📜 About</h2>
