@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  mongodb:
+    image: mongo
+    container_name: mongo-db
+    environment:
+        - MONGO_INITDB_ROOT_USERNAME=root
+        - MONGO_INITDB_ROOT_PASSWORD=mongopw
+    ports:
+        - 27021:27017
+    volumes:
+    - todomongodata:/var/lib/mongodb/data
+volumes:
+    todomongodata:
