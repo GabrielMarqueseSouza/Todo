@@ -47,7 +47,7 @@ The main goal was to study and create a project to put into practice the basics 
 
 - NodeJs v20 or higher installed in your computer;
 - Docker Desktop installed in your computer;
-- Clone the repository: open your command prompt (Press Windows button and search for it) and paste `git clone https://github.com/GabrielMarqueseSouza/Todo-App.git`.
+- Clone the repository: open your command prompt (Press Windows button and search for it) and paste `git clone https://github.com/GabrielMarqueseSouza/Todo.git`.
 
 <h4>Database</h4>
 
