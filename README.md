@@ -23,7 +23,7 @@ The main goal was to study and create a project to put into practice the basics 
 #
 
 <div id="stack">
-<h2 style="border-bottom: none;">🔧 Tecnologies used:</h2>
+<h2 style="border-bottom: none;">🔧 Technologies used:</h2>
 
 <h3>Frontend</h3>
 
